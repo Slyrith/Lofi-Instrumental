@@ -9,7 +9,6 @@ Mod for OperaGX Mods
 # This Mod Is Available!
 install now! <br>
 https://store.gx.me/mods/cud86z/lofi-instrumental/ <br>
-or install it instantly! [Click this text!](https://github.com/Slyrith/Ballin-But-Its-Lofi/raw/main/Ballin_But_Its_Lofi.crx)
 
 ## Mod Feature
 - Background music
