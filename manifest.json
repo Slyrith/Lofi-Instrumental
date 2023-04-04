@@ -1,0 +1,47 @@
+{
+    "manifest_version": 3,
+    "name": "Lofi Instrumental",
+    "description": "A collection of lofi instrumental to make your day!",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Slyrith"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+	  "license": "LICENSE",
+        "payload":
+        {
+		"wallpaper":
+            {
+                "dark":
+                {
+                    "image": "wallpaper/Lofi.jpg",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#cccccc"
+                },
+                "light":
+                {
+                    "image": "wallpaper/Lofi.jpg",
+                    "text_color": "#ffffff",
+                    "text_shadow": "#cccccc"
+                }
+            },
+            "background_music":
+            [
+                "music/Toxic.mp3",
+		    "music/Stan.mp3",
+		    "music/Sad.mp3",
+		    "music/Mood.mp3",
+		    "music/Memories.mp3",
+		    "music/JocelynFlores.mp3",
+		    "music/GetYouTheMoon.mp3"
+            ]
+        }
+    }
+}
